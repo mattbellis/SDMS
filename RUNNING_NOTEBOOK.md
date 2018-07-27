@@ -37,6 +37,11 @@ Flip also suggested [this paper](https://arxiv.org/pdf/1712.00455.pdf) from Gros
 Should reach out to the [physics coordinators](http://home.fnal.gov/~klima/CMS%20MB%20Organigram.pdf), Rahtiaou and Bose,
 about these ideas and see if there are any suggestions or guidance. 
 
+To look for cosmics which pass through the detector, could we look for muons with almost the same energy and
+that are back-to-back in the lab frame? So it looks like they come out of the same point in the 
+center of the detector, but really they are just passing through from above (below?). Should be able to do this 
+search and look for incidences of two of these in the same event?
+
 ## Muons
 
 If we want to get directionality, we need timing information (probably). Some folks suggested looking at the Muon RECO object. 
