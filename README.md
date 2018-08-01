@@ -17,7 +17,7 @@ https://github.com/cmsb2g/B2GDAS
 
 `cd CMSSW_8_0_26/src`
 
-`git clone git@github.com:mattbellis/SDMD.git Analysis/SDMS`
+`git clone git@github.com:mattbellis/SDMS.git Analysis/SDMS`
 
 
 # Building everything
