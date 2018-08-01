@@ -1,8 +1,6 @@
 # SDMS
 Speculative Dark Matter Searches
 
-# Top_BNV
-CMS analysis tools for searches for baryon-number violating decays of the top quark. 
 
 
 # The first time you are checking out/cloning this directory
