@@ -1,3 +1,30 @@
+# 8/15/2018
+
+Jim Hirchauer pointed me to the following paper about "Energy calibration and resolution of the CMS
+electromagnetic calorimeter in pp collisions at √s = 7 TeV"
+
+https://arxiv.org/pdf/1306.2016.pdf
+
+He found in the article that 1 MeV of ionizing energy translates into ~4 photoelectrons. So between this and the dark current, we might not be able to pull anything out. 
+
+However, maybe in the exploding dark matter scenario there is something to think about? 
+
+Jim suggested that if I want to look into this more I might reach out to [Toyoko Orimoto](https://cos.northeastern.edu/faculty/toyoko-orimoto/) at Northeastern and formerly of BaBar, [Colin Jessop](https://physics.nd.edu/people/faculty/colin-jessop/) at Notre Dame, and [Bob Hirosky](http://www.phys.virginia.edu/People/personal.asp?UID=rjh2j) at UVA. 
+
+## Earthshine
+
+I also need to reach out to Yang Yang about the Earthshine work. 
+
+Flip and his student have an open-source simulation for their Earthshine predictions. 
+
+https://twitter.com/UCR_HEP_Theory/status/1029182451493437440
+
+https://arxiv.org/abs/1808.03700
+
+Reached out to Flip about if a mu+mu- coming up from the Earth null result can constrain any of these parameters. 
+
+
+
 # 7/27/2018
 
 [First presentation and collection of thoughts](https://docs.google.com/presentation/d/1LyOHGzwgiF10E3C0q6gLm8upLWyqxp-deZCI5n2V9F8/edit?usp=sharing). 
