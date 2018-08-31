@@ -1,3 +1,17 @@
+# 8/31/2018
+
+Found some TWiki pages of interest
+
+https://twiki.cern.ch/twiki/bin/view/CMS/RecoCosmicsInCollision
+
+https://twiki.cern.ch/twiki/bin/view/CMS/CMSCGEN
+
+https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideCosmicMuonReco?redirectedfrom=CMS.SWGuideCosmicMuonReco
+
+https://twiki.cern.ch/twiki/bin/view/CMS/CosmicTF
+
+
+
 # 8/15/2018
 
 Jim Hirchauer pointed me to the following paper about "Energy calibration and resolution of the CMS
