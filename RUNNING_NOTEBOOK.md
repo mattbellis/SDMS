@@ -1,3 +1,13 @@
+# 11/15/2018
+
+Kevin McDermott (Cornell) suggested I reach out to Juliette Alimena (currently in the EXO group, long-lived particles)
+and pointed me to this talk. 
+
+https://indico.cern.ch/event/754333/contributions/3130511/attachments/1716248/2768921/Dasgupta_DDStatusReport_LLExotica_14Sept2018.pdf
+
+
+
+
 # 8/31/2018
 
 Found some TWiki pages of interest
