@@ -1,3 +1,9 @@
+# 3/1/2019
+
+Check out this discussion on muon analysis
+
+https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookMuonAnalysis
+
 # 11/15/2018
 
 Kevin McDermott (Cornell) suggested I reach out to Juliette Alimena (currently in the EXO group, long-lived particles)
