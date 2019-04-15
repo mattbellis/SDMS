@@ -9,6 +9,8 @@
 Installing CMSSW from [here](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SDTCMSSW_aptinstaller) but...
 * Needed to edit the boostrap.sh file to use [. instead of source](https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell) and also edited it to run 2to3 on cmspkg.py. 
 
+Stored as [PSimHits](https://github.com/cms-sw/cmssw/blob/master/SimDataFormats/TrackingHit/interface/PSimHit.h)
+
 
 # 3/1/2019
 
