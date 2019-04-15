@@ -1,3 +1,15 @@
+# 4/15/2019
+
+[Simple discussion of muon detector](http://cms.web.cern.ch/news/muon-detectors)
+
+* Muon Drift Tubes
+* Muon Cathode Strip Chambers
+* Resistive Plate Chambers
+
+Installing CMSSW from [here](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SDTCMSSW_aptinstaller) but...
+* Needed to edit the boostrap.sh file to use [. instead of source](https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell) and also edited it to run 2to3 on cmspkg.py. 
+
+
 # 3/1/2019
 
 Check out this discussion on muon analysis
